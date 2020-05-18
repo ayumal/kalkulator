@@ -7,13 +7,13 @@ box-sizing:border-box;
 -moz-box-sizing:border-box;
 }
 .wrap{
-width:400px;
+width:300px;
 margin:auto;
 height:auto;
-background: linear-gradient(50deg, #B000EA,black);
+background: linear-gradient(50deg, #B000EA,brown);
 padding:15px;
 border-radius: 10px;
-box-shadow: 1px 5px 10px black
+box-shadow: 1px 5px 10px brown
 }
 input[type=text]{
 width:80%;
